@@ -1,2 +1,2 @@
 # Herring-GSL
-## Statistics about herring stock in the Gulf of St Lawrence
+## Statistics about herring stocks in the Gulf of St Lawrence
